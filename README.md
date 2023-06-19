@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ph2tiger</h1>
 <h3 align="center">저는 개발자 지망생입니다</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ph2tiger" alt="ph2tiger" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Framework(풀스택웹개발)**
 
 <h3 align="left">Connect with me:</h3>
